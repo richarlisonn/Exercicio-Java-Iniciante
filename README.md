@@ -1,4 +1,4 @@
-Boa! Vamos fazer um **exercício bem simples de POO em Java** para você treinar **Classe, Atributos, Construtor, Objeto e Método**.
+Vamos fazer um **exercício bem simples de POO em Java** para você treinar **Classe, Atributos, Construtor, Objeto e Método**.
 
 ## Exercício: Classe `Pessoa`
 
@@ -77,5 +77,4 @@ Olá, meu nome é João, tenho 21 anos e moro em São Paulo
 
 ---
 
-✅ **Tenta fazer e manda seu código aqui.**
-Se tiver erro eu **corrijo e explico linha por linha** para você entender de verdade.
+
